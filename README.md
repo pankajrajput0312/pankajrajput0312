@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Pankaj
 
-
-- 🔍 I'm Software Technician at UAS-DTU. 
+- 👨 I'm 19 years old Software Technician at UAS-DTU. 
 - 🎓 2nd year B.Tech in Computer Engineering from Delhi Technological University(DTU).
 - 🔭 I’m experienced in  Deep Learning, and machine learning, Generative Adversarial Network and in NLP. 
 - 🌱 I’m currently exploring more about FreeLancing.
