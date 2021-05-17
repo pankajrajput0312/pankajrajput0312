@@ -7,7 +7,7 @@
 - 👯 I’m looking to connect with peoples and participate in hackathon.
 - 💬 Ask me about anything, but i may be slow to respond.
 - ⚡ Fun fact: I can sleep all day and work all night!😄
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1qv1LLdL1oz_sLYhvQlPdcESsSHbvspB5/view?usp=sharing)
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1p608F_YSfFLzJlrrT12ftrDN-jDNN3DB/view?usp=sharing)
 
 ![Pankaj GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankajrajput0312&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <!---
