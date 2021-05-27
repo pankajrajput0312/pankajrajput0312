@@ -3,6 +3,7 @@
 - 👨 I'm Software Technician at UAS-DTU. 
 - 🎓 2nd year B.Tech in Computer Engineering from Delhi Technological University(DTU).
 - 🔭 I’m experienced in  Deep Learning, and machine learning, Generative Adversarial Network and in NLP. 
+- 👨‍💻 Currently doing Programming questions on Leetcode for placement.
 - 🌱 I’m currently exploring more about FreeLancing.
 - 👯 I’m looking to connect with peoples and participate in hackathon.
 - 💬 Ask me about anything, but i may be slow to respond.
