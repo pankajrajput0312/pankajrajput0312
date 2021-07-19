@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Pankaj
 
-- 👨 I'm Machine Learning Engineer at Phidian Technologies and Software Technician at UAS-DTU. 
-- 🎓 2nd year B.Tech in Computer Engineering from Delhi Technological University(DTU).
+- 👨 I'm Software Technician at UAS-DTU. 
+- 🎓 3rd year B.Tech in Computer Engineering from Delhi Technological University(DTU).
 - 🔭 I’m experienced in  Deep Learning, and machine learning, Generative Adversarial Network and in NLP. 
 - 👨‍💻 Currently doing Programming questions on Leetcode for placement.
 - 🌱 I’m currently exploring more about FreeLancing.
