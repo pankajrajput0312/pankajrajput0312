@@ -4,7 +4,7 @@
 - 🎓 3rd year B.Tech in Computer Engineering from Delhi Technological University(DTU).
 - 🔭 I’m experienced in  Deep Learning, and machine learning, Generative Adversarial Network and in NLP. 
 - 👨‍💻 Currently doing Programming questions on Leetcode for placement.
-- 🌱 I’m currently exploring more about FreeLancing.
+- 🌱 I’m currently exploring more about FreeLancing and going deep into heart of Deep Learning.
 - 👯 I’m looking to connect with peoples and participate in hackathon.
 - 💬 Ask me about anything, but i may be slow to respond.
 - ⚡ Fun fact: I can sleep all day and work all night!😄
