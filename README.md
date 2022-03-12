@@ -1,10 +1,9 @@
 ### Hi there 👋 I'm Pankaj
 
-- 👨 I'm Software Technician at UAS-DTU. 
+- 👨 I'm Deep Learning Freelancer. I'll help you in transforming your idea into a product. 
 - 🎓 3rd year B.Tech in Computer Engineering from Delhi Technological University(DTU).
 - 🔭 I’m experienced in  Deep Learning, and machine learning, GANs and in NLP. 
 - 👨‍💻 Currently doing Programming questions on Leetcode for placement.
-- 🌱 I’m currently exploring more about FreeLancing and going deep into heart of Deep Learning.
 - 👯 I’m looking to connect with peoples and participate in hackathon.
 - 💬 Ask me about anything, but i may be slow to respond.
 - ⚡ Fun fact: I can sleep all day and work all night!😄
