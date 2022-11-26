@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Pankaj
 
 - 👨 I'm Deep Learning Freelancer. I'll help you in transforming your idea into a product. 
-- 🎓 3rd year B.Tech in Computer Engineering from Delhi Technological University(DTU).
+- 🎓 4th year B.Tech in Computer Engineering from Delhi Technological University(DTU).
 - 🔭 I’m experienced in  Deep Learning, and machine learning, GANs and in NLP. 
 - 👨‍💻 Currently doing Programming questions on Leetcode for placement.
 - 👯 I’m looking to connect with peoples and participate in hackathon.
@@ -16,6 +16,5 @@
 
 
 #### **Connect with me:**
-[![Twitter Badge](https://img.shields.io/badge/-pankajrajput312-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Pankajrajput312)
 [![Linkedin Badge](https://img.shields.io/badge/-pankajrajput0312-blue?style=flat-square&logo=linkedin&logoColor=white%27)](https://www.linkedin.com/in/pankaj-rajput-6551b61a0)
 [![Gmail Badge](https://img.shields.io/badge/-pankajrajput020010-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pankajrajput020010@gmail.com)](mailto:pankajrajput020010@gmail.com)
